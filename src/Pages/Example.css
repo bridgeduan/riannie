@@ -1,6 +1,12 @@
 /* IDs */
 #example{
-    background-color: white;
+    background-color: #E8C4FF;
+    height: 100vh;
 }
 
 /* ClassNames */
+.example_group{
+    height: 50vh;
+    justify-content: center;
+    margin: auto;
+}
